@@ -1,0 +1,6 @@
+En Windows, Instalar Git para windows.
+Despues instalar tortoise_git.
+Una vez instalados, ir a la carpeta de la libreria de proficad.
+Dar click derecho y seleccionar Git Clone.
+En el recuadro pegar el link en URL y seleccionar recursive. 
+Dar OK. 
