@@ -1,0 +1,120 @@
+<document type="ProfiCAD ppd" version="9.0" t="R" fG="ef75a0f7-a247-4ae7-a0b0-3d8c491fed5f" lG="ccfc4b4f-a6e1-41b2-b42e-c3de71d38276">
+<repo>
+<ppd name="SIMI\PLC Relay 1C 2O.ppd" t="R" fG="ef75a0f7-a247-4ae7-a0b0-3d8c491fed5f" lG="575ca3bf-ae9c-40d5-93b2-9e77cec0e309">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-60" top="-20" right="-20" bottom="20"/>
+<ellipse left="-55" top="-15" right="-25" bottom="15"/>
+<polyline pts="-52,8,-32,-12,"/>
+<polyline pts="-48,12,-28,-8,"/>
+<outlet x="-40" y="-20"/>
+<rect left="-20" top="-20" right="20" bottom="20"/>
+<ellipse left="-15" top="-15" right="15" bottom="15"/>
+<polyline pts="-12,8,8,-12,"/>
+<polyline pts="-8,12,12,-8,"/>
+<outlet x="0" y="-20"/>
+<rect left="-60" top="20" right="60" bottom="80"/>
+<rect left="-60" top="80" right="60" bottom="220"/>
+<ellipse left="-27" top="180" right="-7" bottom="200" op-lw="1"/>
+<polyline op-lw="1" pts="-40,150,-40,129,"/>
+<text x="-40" y="50" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">{C0}</text>
+<rect left="20" top="-20" right="60" bottom="20"/>
+<ellipse left="25" top="-15" right="55" bottom="15"/>
+<polyline pts="28,8,48,-12,"/>
+<polyline pts="32,12,52,-8,"/>
+<outlet x="40" y="-20"/>
+<text x="0" y="50" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">{Y0}</text>
+<text x="40" y="50" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">{Y1}</text>
+<polyline op-lw="1" pts="-24,150,-40,150,"/>
+<ellipse left="15" top="180" right="35" bottom="200" op-lw="1"/>
+<polyline op-lw="1" pts="15,150,30,160,"/>
+<polyline op-lw="1" pts="40,150,30,150,"/>
+<polyline op-lw="1" pts="40,150,40,129,"/>
+<polyline op-lw="1" pts="-17,180,-17,155,">
+<op-lt head="for 3P symbols, _  _  _  _  _  _  _  _  _  _  _" body="A,.09,-.09"/>
+</polyline>
+<polyline op-lw="1" pts="25,180,25,157,">
+<op-lt head="for 3P symbols, _  _  _  _  _  _  _  _  _  _  _" body="A,.09,-.09"/>
+</polyline>
+<polyline op-lw="1" pts="-1,190,-6,190,"/>
+<polyline op-lw="1" pts="15,190,10,190,"/>
+<polyline op-lw="1" pts="-32,210,-32,190,"/>
+<polyline op-lw="1" pts="40,210,40,190,"/>
+<polyline op-lw="1" pts="-1,210,-1,190,"/>
+<polyline op-lw="1" pts="10,210,10,190,"/>
+<polyline op-lw="1" pts="-24,150,-10,160,"/>
+<polyline op-lw="1" pts="0,150,0,129,"/>
+<polyline op-lw="1" pts="15,150,10,150,"/>
+<polyline op-lw="1" pts="10,150,10,129,"/>
+<polyline pts="-40,90,-40,130,"/>
+<polyline pts="-40,110,10,110,"/>
+<polyline pts="10,130,10,110,"/>
+<polyline pts="0,90,0,130,"/>
+<polyline pts="40,90,40,130,"/>
+<polyline op-lw="1" pts="-27,190,-32,190,"/>
+<polyline op-lw="1" pts="40,190,35,190,"/>
+<polyline op-lw="1" pts="40,150,30,150,"/>
+<polyline op-lw="1" pts="0,150,-10,150,"/>
+<ellipse left="-45" top="105" right="-35" bottom="115" op-fd="1" op-fc="0"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-60" top="-120" right="-20" bottom="-80"/>
+<ellipse left="-55" top="-115" right="-25" bottom="-85"/>
+<polyline pts="-52,-92,-32,-112,"/>
+<polyline pts="-48,-88,-28,-108,"/>
+<outlet x="-40" y="-120"/>
+<rect left="-20" top="-120" right="20" bottom="-80"/>
+<ellipse left="-15" top="-115" right="15" bottom="-85"/>
+<polyline pts="-12,-92,8,-112,"/>
+<polyline pts="-8,-88,12,-108,"/>
+<outlet x="0" y="-120"/>
+<rect left="-60" top="-80" right="60" bottom="-20"/>
+<rect left="-60" top="-20" right="60" bottom="120"/>
+<ellipse left="-27" top="80" right="-7" bottom="100" op-lw="1"/>
+<polyline op-lw="1" pts="-40,50,-40,29,"/>
+<text x="-40" y="-50" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">{C0}</text>
+<rect left="20" top="-120" right="60" bottom="-80"/>
+<ellipse left="25" top="-115" right="55" bottom="-85"/>
+<polyline pts="28,-92,48,-112,"/>
+<polyline pts="32,-88,52,-108,"/>
+<outlet x="40" y="-120"/>
+<text x="0" y="-50" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">{Y0}</text>
+<text x="40" y="-50" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">{Y1}</text>
+<polyline op-lw="1" pts="-24,50,-40,50,"/>
+<ellipse left="15" top="80" right="35" bottom="100" op-lw="1"/>
+<polyline op-lw="1" pts="15,50,30,60,"/>
+<polyline op-lw="1" pts="40,50,30,50,"/>
+<polyline op-lw="1" pts="40,50,40,29,"/>
+<polyline op-lw="1" pts="-17,80,-17,55,">
+<op-lt head="for 3P symbols, _  _  _  _  _  _  _  _  _  _  _" body="A,.09,-.09"/>
+</polyline>
+<polyline op-lw="1" pts="25,80,25,57,">
+<op-lt head="for 3P symbols, _  _  _  _  _  _  _  _  _  _  _" body="A,.09,-.09"/>
+</polyline>
+<polyline op-lw="1" pts="-1,90,-6,90,"/>
+<polyline op-lw="1" pts="15,90,10,90,"/>
+<polyline op-lw="1" pts="-32,110,-32,90,"/>
+<polyline op-lw="1" pts="40,110,40,90,"/>
+<polyline op-lw="1" pts="-1,110,-1,90,"/>
+<polyline op-lw="1" pts="10,110,10,90,"/>
+<polyline op-lw="1" pts="-24,50,-10,60,"/>
+<polyline op-lw="1" pts="0,50,0,29,"/>
+<polyline op-lw="1" pts="15,50,10,50,"/>
+<polyline op-lw="1" pts="10,50,10,29,"/>
+<polyline pts="-40,-10,-40,30,"/>
+<polyline pts="-40,10,10,10,"/>
+<polyline pts="10,30,10,10,"/>
+<polyline pts="0,-10,0,30,"/>
+<polyline pts="40,-10,40,30,"/>
+<polyline op-lw="1" pts="-27,90,-32,90,"/>
+<polyline op-lw="1" pts="40,90,35,90,"/>
+<polyline op-lw="1" pts="40,50,30,50,"/>
+<polyline op-lw="1" pts="0,50,-10,50,"/>
+<ellipse left="-45" top="5" right="-35" bottom="15" op-fd="1" op-fc="0"/>
+</layer>
+</layers>
+</document>

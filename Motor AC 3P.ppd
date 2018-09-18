@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0" n="EN 60617: 06-08-01" fG="29698c12-2e33-4e3a-8380-d1a31961b1b2" lG="d0e561a2-4953-4798-9ce9-9f69d075e21a">
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40"/>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+<polybezier op-lw="3" pts="-20,20,-3,-10,3,40,20,10,"/>
+<outlet x="-20" y="-35"/>
+<outlet x="0" y="-40"/>
+<outlet x="20" y="-35"/>
+<outlet x="-20" y="35"/>
+<outlet x="0" y="40"/>
+<outlet x="20" y="35"/>
+<text x="0" y="-15" f="100,0,0,0,Arial,000000" l="1">M</text>
+</layer>
+</layers>
+</document>

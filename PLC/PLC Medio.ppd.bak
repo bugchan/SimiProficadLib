@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0" fG="c3825aef-1e0f-4da4-94d0-34d73f7317e1" lG="23cebf0e-a53b-4ca9-bc10-3db165b4d6f2">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-300,100,300,100,"/>
+<polyline pts="-300,-100,300,-100,"/>
+<polyline pts="-300,-100,-300,100,"/>
+<polyline pts="300,-100,280,-40,"/>
+<polyline pts="280,-40,300,0,"/>
+<polyline pts="300,0,270,40,"/>
+<polyline pts="270,40,300,100,"/>
+</layer>
+</layers>
+</document>

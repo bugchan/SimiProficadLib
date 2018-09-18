@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0" fG="efa4ec5f-f25c-4e18-ad95-d90a13afa206" lG="620168ee-b87e-4dad-af1c-2c00c6915f64">
+<repo>
+<ppd name="SIMI\Reference.ppd" fG="efa4ec5f-f25c-4e18-ad95-d90a13afa206" lG="7b355f15-92c8-4a65-8f6d-66a8856ed83c">
+<layers current="0">
+<layer name="0" v="1">
+<polygon op-fd="1" op-fc="0" pts="-39,-20,-39,20,39,0,39,0,"/>
+<text x="55" y="0" f="110,0,0,0,Lucida Sans Unicode,000000" al="2">{TOpage.TOcolumn}</text>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<polygon op-fd="1" op-fc="0" pts="-29,-15,-29,15,30,0,30,0,"/>
+<outlet x="-30" y="0"/>
+<outlet x="30" y="0"/>
+</layer>
+</layers>
+</document>

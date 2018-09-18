@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0" t="Z" n="EN 60617: 11-15-03" fG="4c937897-4741-4ab6-9544-1153eb409f8e" lG="4191333b-e57a-4571-a0ad-a8b2fedb346c">
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="-20" top="-20" right="20" bottom="20"/>
+<polyline pts="20,-20,14,-14,"/>
+<polyline pts="-20,-20,-14,-14,"/>
+<outlet x="-20" y="0"/>
+<outlet x="20" y="0"/>
+<outlet x="0" y="-20"/>
+<outlet x="0" y="20"/>
+<polyline pts="14,14,20,20,"/>
+<polyline pts="-14,14,-20,20,"/>
+<text x="0" y="0" f="60,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">{R}</text>
+</layer>
+</layers>
+</document>

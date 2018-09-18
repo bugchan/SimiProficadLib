@@ -1,0 +1,130 @@
+<document type="ProfiCAD ppd" version="9.0" fG="5bbb0776-8de3-46ae-97d3-17030e806cd3" lG="0a1f412f-a2c1-4e8c-9c8c-65b329723d55">
+<repo>
+<ppd name="SIMI\DISTRIBUTION BOARD\Clema.ppd" fG="5bbb0776-8de3-46ae-97d3-17030e806cd3" lG="879c92cc-768e-40ed-b6f6-3fde061e9400">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-31" top="-210" right="31" bottom="210" op-lw="1" op-fd="1" op-fc="12632256"/>
+<outlet x="0" y="-210"/>
+<outlet x="0" y="210"/>
+<polyline op-lc="5066061" end="2" pts="30,180,-30,180,"/>
+<polyline op-lc="5066061" end="2" pts="30,-180,-30,-180,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-150,-30,-150,"/>
+<polyline op-lc="1842204" end="2" pts="31,-140,-31,-140,"/>
+<rect left="-25" top="2" right="25" bottom="40" op-lw="0" op-fd="1" op-fc="6250335"/>
+<ellipse left="-15" top="5" right="15" bottom="35" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="20"/>
+<rect left="-25" top="-40" right="25" bottom="-2" op-lw="0" op-fd="1" op-fc="6250335"/>
+<ellipse left="-15" top="-35" right="15" bottom="-5" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="-20"/>
+<ellipse left="-20" top="-120" right="20" bottom="-80" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,-85,-16,-111,"/>
+<polyline pts="-10,-116,16,-90,"/>
+<ellipse left="-20" top="80" right="20" bottom="120" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,115,-16,89,"/>
+<polyline pts="-10,84,16,110,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-160,-30,-160,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-170,-30,-170,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,170,-30,170,"/>
+<polyline op-lc="1842204" end="2" pts="31,140,-31,140,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,160,-30,160,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,150,-30,150,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="SIMI\DISTRIBUTION BOARD\Clema Tierra.ppd" fG="5bbb0776-8de3-46ae-97d3-17030e806cd3" lG="e619323b-2842-42ef-9977-428c08aa5b5a">
+<repo>
+<ppd name="SIMI\DISTRIBUTION BOARD\Clema.ppd" fG="5bbb0776-8de3-46ae-97d3-17030e806cd3" lG="879c92cc-768e-40ed-b6f6-3fde061e9400">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-31" top="-210" right="31" bottom="210" op-lw="1" op-fd="1" op-fc="12632256"/>
+<outlet x="0" y="-210"/>
+<outlet x="0" y="210"/>
+<polyline op-lc="5066061" end="2" pts="30,180,-30,180,"/>
+<polyline op-lc="5066061" end="2" pts="30,-180,-30,-180,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-150,-30,-150,"/>
+<polyline op-lc="1842204" end="2" pts="31,-140,-31,-140,"/>
+<rect left="-25" top="2" right="25" bottom="40" op-lw="0" op-fd="1" op-fc="6250335"/>
+<ellipse left="-15" top="5" right="15" bottom="35" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="20"/>
+<rect left="-25" top="-40" right="25" bottom="-2" op-lw="0" op-fd="1" op-fc="6250335"/>
+<ellipse left="-15" top="-35" right="15" bottom="-5" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="-20"/>
+<ellipse left="-20" top="-120" right="20" bottom="-80" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,-85,-16,-111,"/>
+<polyline pts="-10,-116,16,-90,"/>
+<ellipse left="-20" top="80" right="20" bottom="120" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,115,-16,89,"/>
+<polyline pts="-10,84,16,110,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-160,-30,-160,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-170,-30,-170,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,170,-30,170,"/>
+<polyline op-lc="1842204" end="2" pts="31,140,-31,140,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,160,-30,160,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,150,-30,150,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-31" top="-210" right="31" bottom="210" op-lw="1" op-fd="1" op-fc="52377"/>
+<rect left="-30" top="-209" right="0" bottom="209" op-lw="0" op-fd="1" op-fc="65535"/>
+<rect left="0" top="-40" right="25" bottom="-2" op-lw="0" op-fd="1" op-fc="27729"/>
+<rect left="-25" top="-40" right="0" bottom="-2" op-lw="0" op-fd="1" op-fc="34954"/>
+<rect left="0" top="2" right="25" bottom="40" op-lw="0" op-fd="1" op-fc="27729"/>
+<outlet x="0" y="-210"/>
+<outlet x="0" y="210"/>
+<ellipse left="-15" top="-35" right="15" bottom="-5" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="-20"/>
+<polyline op-lc="5066061" end="2" pts="30,180,-30,180,"/>
+<polyline op-lc="5066061" end="2" pts="30,-180,-30,-180,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-150,-30,-150,"/>
+<polyline op-lc="1842204" end="2" pts="31,-140,-31,-140,"/>
+<ellipse left="-20" top="-120" right="20" bottom="-80" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,-85,-16,-111,"/>
+<polyline pts="-10,-116,16,-90,"/>
+<ellipse left="-20" top="80" right="20" bottom="120" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,115,-16,89,"/>
+<polyline pts="-10,84,16,110,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-160,-30,-160,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-170,-30,-170,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,170,-30,170,"/>
+<polyline op-lc="1842204" end="2" pts="31,140,-31,140,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,160,-30,160,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,150,-30,150,"/>
+<rect left="-25" top="2" right="0" bottom="40" op-lw="0" op-fd="1" op-fc="34954"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-31" top="-210" right="31" bottom="210" op-lw="1" op-fd="1" op-fc="52377"/>
+<rect left="-30" top="-209" right="0" bottom="209" op-lw="0" op-fd="1" op-fc="65535"/>
+<rect left="0" top="-40" right="25" bottom="-2" op-lw="0" op-fd="1" op-fc="27729"/>
+<rect left="-25" top="-40" right="0" bottom="-2" op-lw="0" op-fd="1" op-fc="34954"/>
+<rect left="0" top="2" right="25" bottom="40" op-lw="0" op-fd="1" op-fc="27729"/>
+<outlet x="0" y="-210"/>
+<outlet x="0" y="210"/>
+<ellipse left="-15" top="-35" right="15" bottom="-5" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="-20"/>
+<polyline op-lc="5066061" end="2" pts="30,180,-30,180,"/>
+<polyline op-lc="5066061" end="2" pts="30,-180,-30,-180,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-150,-30,-150,"/>
+<polyline op-lc="1842204" end="2" pts="31,-140,-31,-140,"/>
+<ellipse left="-20" top="-120" right="20" bottom="-80" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,-85,-16,-111,"/>
+<polyline pts="-10,-116,16,-90,"/>
+<ellipse left="-20" top="80" right="20" bottom="120" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,115,-16,89,"/>
+<polyline pts="-10,84,16,110,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-160,-30,-160,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-170,-30,-170,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,170,-30,170,"/>
+<polyline op-lc="1842204" end="2" pts="31,140,-31,140,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,160,-30,160,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,150,-30,150,"/>
+<rect left="-25" top="2" right="0" bottom="40" op-lw="0" op-fd="1" op-fc="34954"/>
+</layer>
+</layers>
+</document>

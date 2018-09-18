@@ -1,0 +1,73 @@
+<document type="ProfiCAD ppd" version="9.0" fG="5bbb0776-8de3-46ae-97d3-17030e806cd3" lG="d6ac4e2b-f115-4210-8bc1-bcff0f633bcb">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-30" top="-150" right="30" bottom="-420" op-lw="1" op-fd="1" op-fc="10066329"/>
+<rect left="-30" top="-150" right="30" bottom="270" op-lw="1" op-fd="1" op-fc="12632256"/>
+<outlet x="0" y="-150"/>
+<outlet x="0" y="270"/>
+<polyline op-lc="5066061" end="2" pts="30,240,-30,240,"/>
+<polyline op-lc="5066061" end="2" pts="30,-120,-30,-120,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-90,-30,-90,"/>
+<polyline op-lc="1842204" end="2" pts="31,-80,-31,-80,"/>
+<rect left="-25" top="62" right="25" bottom="100" op-lw="0" op-fd="1" op-fc="6250335"/>
+<ellipse left="-15" top="65" right="15" bottom="95" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="80"/>
+<rect left="-25" top="20" right="25" bottom="58" op-lw="0" op-fd="1" op-fc="6250335"/>
+<ellipse left="-15" top="25" right="15" bottom="55" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="40"/>
+<ellipse left="-20" top="-60" right="20" bottom="-20" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,-25,-16,-51,"/>
+<polyline pts="-10,-56,16,-30,"/>
+<ellipse left="-20" top="140" right="20" bottom="180" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,175,-16,149,"/>
+<polyline pts="-10,144,16,170,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-100,-30,-100,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-110,-30,-110,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,230,-30,230,"/>
+<polyline op-lc="1842204" end="2" pts="31,200,-31,200,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,220,-30,220,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,210,-30,210,"/>
+<outlet x="0" y="-420"/>
+<polyline op-lc="5066061" end="2" pts="30,-390,-30,-390,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-360,-30,-360,"/>
+<polyline op-lc="1842204" end="2" pts="31,-350,-31,-350,"/>
+<rect left="-25" top="-208" right="25" bottom="-170" op-lw="0" op-fd="1" op-fc="6250335"/>
+<ellipse left="-15" top="-205" right="15" bottom="-175" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="-190"/>
+<rect left="-25" top="-250" right="25" bottom="-212" op-lw="0" op-fd="1" op-fc="6250335"/>
+<ellipse left="-15" top="-245" right="15" bottom="-215" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="-230"/>
+<ellipse left="-20" top="-330" right="20" bottom="-290" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,-295,-16,-321,"/>
+<polyline pts="-10,-326,16,-300,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-370,-30,-370,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-380,-30,-380,"/>
+<rect left="-30" top="-150" right="30" bottom="-420" op-lw="1" op-fd="1" op-fc="10066329"/>
+<outlet x="0" y="-420"/>
+<polyline op-lc="5066061" end="2" pts="30,-390,-30,-390,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-360,-30,-360,"/>
+<polyline op-lc="1842204" end="2" pts="31,-350,-31,-350,"/>
+<rect left="-25" top="-208" right="25" bottom="-170" op-lw="0" op-fd="1" op-fc="6250335"/>
+<ellipse left="-15" top="-205" right="15" bottom="-175" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="-190"/>
+<rect left="-25" top="-250" right="25" bottom="-212" op-lw="0" op-fd="1" op-fc="6250335"/>
+<ellipse left="-15" top="-245" right="15" bottom="-215" op-lw="0" op-lc="3355443" op-fd="1" op-fc="1118481"/>
+<outlet x="0" y="-230"/>
+<ellipse left="-20" top="-330" right="20" bottom="-290" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,-295,-16,-321,"/>
+<polyline pts="-10,-326,16,-300,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-370,-30,-370,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,-380,-30,-380,"/>
+<rect left="-30" top="420" right="30" bottom="270" op-lw="1" op-fd="1" op-fc="10066329"/>
+<outlet x="0" y="420"/>
+<polyline op-lc="5066061" end="2" pts="30,390,-30,390,"/>
+<ellipse left="-20" top="290" right="20" bottom="330" op-lw="3" op-fd="1" op-fc="14540253"/>
+<polyline pts="10,325,-16,299,"/>
+<polyline pts="-10,294,16,320,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,380,-30,380,"/>
+<polyline op-lc="1842204" end="2" pts="31,350,-31,350,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,370,-30,370,"/>
+<polyline op-lw="1" op-lc="5066061" pts="30,360,-30,360,"/>
+</layer>
+</layers>
+</document>

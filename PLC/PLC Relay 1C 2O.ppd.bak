@@ -1,0 +1,50 @@
+<document type="ProfiCAD ppd" version="9.0" t="R" fG="ef75a0f7-a247-4ae7-a0b0-3d8c491fed5f" lG="9d47de22-deaf-41da-aae1-66436d1d3006">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-60" top="-20" right="-20" bottom="20"/>
+<ellipse left="-55" top="-15" right="-25" bottom="15"/>
+<polyline pts="-52,8,-32,-12,"/>
+<polyline pts="-48,12,-28,-8,"/>
+<outlet x="-40" y="-20"/>
+<rect left="-20" top="-20" right="20" bottom="20"/>
+<ellipse left="-15" top="-15" right="15" bottom="15"/>
+<polyline pts="-12,8,8,-12,"/>
+<polyline pts="-8,12,12,-8,"/>
+<outlet x="0" y="-20"/>
+<rect left="-60" top="20" right="60" bottom="80"/>
+<rect left="-60" top="80" right="60" bottom="180"/>
+<ellipse left="-30" top="140" right="-10" bottom="160"/>
+<polyline pts="-40,110,-40,89,"/>
+<text x="-40" y="50" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">{C0}</text>
+<rect left="20" top="-20" right="60" bottom="20"/>
+<ellipse left="25" top="-15" right="55" bottom="15"/>
+<polyline pts="28,8,48,-12,"/>
+<polyline pts="32,12,52,-8,"/>
+<outlet x="40" y="-20"/>
+<text x="0" y="50" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">{Y0}</text>
+<text x="40" y="50" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">{Y1}</text>
+<polyline pts="-30,110,-40,110,"/>
+<ellipse left="10" top="140" right="30" bottom="160"/>
+<polyline pts="10,110,30,120,"/>
+<polyline pts="40,110,30,110,"/>
+<polyline pts="40,110,40,89,"/>
+<polyline pts="-20,140,-20,115,">
+<op-lt head="for 3P symbols, _  _  _  _  _  _  _  _  _  _  _" body="A,.09,-.09"/>
+</polyline>
+<polyline pts="20,140,20,115,">
+<op-lt head="for 3P symbols, _  _  _  _  _  _  _  _  _  _  _" body="A,.09,-.09"/>
+</polyline>
+<polyline pts="40,150,30,150,"/>
+<polyline pts="-30,150,-40,150,"/>
+<polyline pts="-4,150,-9,150,"/>
+<polyline pts="10,150,5,150,"/>
+<polyline pts="-40,170,-40,150,"/>
+<polyline pts="40,170,40,150,"/>
+<polyline pts="-4,170,-4,150,"/>
+<polyline pts="5,170,5,150,"/>
+<polyline pts="-30,110,-10,120,"/>
+<polyline pts="0,110,-10,110,"/>
+<polyline pts="0,110,0,89,"/>
+</layer>
+</layers>
+</document>

@@ -1,0 +1,99 @@
+<document type="ProfiCAD ppd" version="9.0" fG="a566099e-a0d4-4e6a-8f2f-16d2a6c7bafe" lG="542ae0e0-4604-4154-95ca-c01b8475e0b8">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="0" top="-425" right="175" bottom="425" op-lw="1" op-lc="5066061" op-fd="1" op-fc="15527148"/>
+<rect left="-175" top="-425" right="0" bottom="425" op-lw="1" op-lc="5066061" op-fd="1" op-fc="15527148"/>
+<polyline op-lc="14540253" pts="-88,-414,-88,-237,"/>
+<polyline op-lc="14540253" pts="87,-414,87,-237,"/>
+<polyline op-lc="14540253" pts="87,217,87,414,"/>
+<polyline op-lw="15" op-lc="14540253" end="2" pts="-174,-80,-3,-80,"/>
+<polyline op-lc="14540253" pts="-88,217,-88,414,"/>
+<rect left="-174" top="-235" right="173" bottom="215" op-lw="1"/>
+<ellipse left="-118" top="-360" right="-58" bottom="-300" op-lw="3" op-fd="1" op-fc="6250335"/>
+<polyline pts="-117,-336,-94,-336,"/>
+<polyline pts="-94,-336,-94,-346,"/>
+<polyline pts="-94,-346,-82,-346,"/>
+<polyline pts="-82,-346,-82,-336,"/>
+<polyline pts="-82,-336,-60,-336,"/>
+<polyline pts="-117,-324,-94,-324,"/>
+<polyline pts="-94,-324,-94,-314,"/>
+<polyline pts="-82,-314,-82,-324,"/>
+<polyline pts="-82,-324,-59,-324,"/>
+<polyline pts="-94,-314,-82,-314,"/>
+<ellipse left="57" top="-360" right="117" bottom="-300" op-lw="3" op-fd="1" op-fc="6250335"/>
+<polyline pts="58,-336,81,-336,"/>
+<polyline pts="81,-336,81,-346,"/>
+<polyline pts="81,-346,93,-346,"/>
+<polyline pts="93,-346,93,-336,"/>
+<polyline pts="93,-336,115,-336,"/>
+<polyline pts="58,-324,81,-324,"/>
+<polyline pts="81,-324,81,-314,"/>
+<polyline pts="93,-314,93,-324,"/>
+<polyline pts="93,-324,116,-324,"/>
+<polyline pts="81,-314,93,-314,"/>
+<ellipse left="-118" top="310" right="-58" bottom="370" op-lw="3" op-fd="1" op-fc="6250335"/>
+<polyline pts="-117,334,-94,334,"/>
+<polyline pts="-94,334,-94,324,"/>
+<polyline pts="-94,324,-82,324,"/>
+<polyline pts="-82,324,-82,334,"/>
+<polyline pts="-82,334,-60,334,"/>
+<polyline pts="-117,346,-94,346,"/>
+<polyline pts="-94,346,-94,356,"/>
+<polyline pts="-82,356,-82,346,"/>
+<polyline pts="-82,346,-59,346,"/>
+<polyline pts="-94,356,-82,356,"/>
+<ellipse left="57" top="310" right="117" bottom="370" op-lw="3" op-fd="1" op-fc="6250335"/>
+<polyline pts="58,334,81,334,"/>
+<polyline pts="81,334,81,324,"/>
+<polyline pts="81,324,93,324,"/>
+<polyline pts="93,324,93,334,"/>
+<polyline pts="93,334,115,334,"/>
+<polyline pts="58,346,81,346,"/>
+<polyline pts="81,346,81,356,"/>
+<polyline pts="93,356,93,346,"/>
+<polyline pts="93,346,116,346,"/>
+<polyline pts="81,356,93,356,"/>
+<polyline op-lw="1" op-lc="11711154" pts="-168,210,172,210,"/>
+<polyline op-lw="1" op-lc="11711154" pts="-168,205,172,205,"/>
+<polyline op-lw="1" op-lc="11711154" pts="-168,200,172,200,"/>
+<polyline op-lw="1" end="2" pts="-175,285,174,285,"/>
+<polyline op-lw="1" op-lc="11711154" pts="-167,281,163,281,"/>
+<polyline op-lw="1" op-lc="11711154" pts="-167,276,163,276,"/>
+<polyline op-lw="1" op-lc="11711154" pts="-167,272,163,272,"/>
+<polyline op-lw="40" op-lc="255" end="2" pts="-173,-203,174,-203,"/>
+<rect left="42" top="-71" right="132" bottom="-1" op-lw="1" op-fd="1" op-fc="9868950"/>
+<rect left="43" top="-23" right="131" bottom="-2" op-lw="0" op-lc="6250335" op-fd="1" op-fc="6250335"/>
+<rect left="-133" top="-71" right="-43" bottom="-1" op-lw="1" op-fd="1" op-fc="9868950"/>
+<rect left="-175" top="-1" right="177" bottom="84" op-lw="1" op-lc="7829367" op-fd="1" op-fc="9868950"/>
+<polyline op-lw="1" op-lc="7829367" end="2" pts="-57,0,-57,84,"/>
+<polyline op-lw="1" op-lc="7829367" end="2" pts="-9,0,-9,84,"/>
+<polyline op-lw="1" op-lc="7829367" end="2" pts="39,0,39,84,"/>
+<polyline op-lw="1" op-lc="7829367" end="2" pts="87,0,87,83,"/>
+<polyline op-lw="1" op-lc="7829367" end="2" pts="135,0,135,84,"/>
+<polyline op-lc="7829367" pts="-167,82,173,82,"/>
+<polyline op-lw="1" op-lc="7829367" pts="-167,78,173,78,"/>
+<polyline op-lw="1" op-lc="7829367" pts="-167,73,173,73,"/>
+<text x="-49" y="-167" f="70,1,0,0,Arial,777777" al="9">SH 202T</text>
+<text x="-77" y="-146" f="70,1,0,0,Arial,777777" al="9">C 6</text>
+<rect left="-45" top="-133" right="-7" bottom="-118" op-lw="1" op-lc="7829367"/>
+<rect left="-33" top="-118" right="-18" bottom="-103" op-lw="1" op-lc="7829367"/>
+<text x="-27" y="-115" f="40,0,0,0,Arial,777777" al="9">4000</text>
+<text x="-25" y="-100" f="40,0,0,0,Arial,777777" al="9">3</text>
+<polyline op-lw="10" op-lc="9868950" end="2" pts="-132,-13,-77,-13,"/>
+<outlet x="-88" y="-415"/>
+<outlet x="87" y="-415"/>
+<outlet x="87" y="415"/>
+<outlet x="-88" y="415"/>
+<polyline op-lw="1" op-lc="5066061" pts="0,216,0,85,"/>
+<polyline op-lw="1" op-lc="5066061" pts="175,216,175,85,"/>
+<polyline op-lw="15" op-lc="14540253" end="2" pts="3,-80,171,-80,"/>
+<polyline op-lw="1" end="2" pts="-165,206,-7,206,"/>
+<polyline op-lw="1" end="2" pts="8,206,166,206,"/>
+<text x="-128" y="-213" f="110,1,0,0,Arial,FFFFFF" al="9">ABB</text>
+<rect left="-132" top="-23" right="-44" bottom="-2" op-lw="0" op-lc="6250335" op-fd="1" op-fc="6250335"/>
+<text x="88" y="-56" f="70,1,0,0,Arial,494949" al="9">OFF</text>
+<text x="-88" y="-55" f="70,1,0,0,Arial,494949" al="9">OFF</text>
+<rect left="180" top="-225" right="350" bottom="225"/>
+</layer>
+</layers>
+</document>

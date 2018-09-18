@@ -1,0 +1,384 @@
+<document type="ProfiCAD ppd" version="9.0" fG="013662dc-4be1-4804-aca2-d32e4315baf2" lG="8d632c1a-5979-48c7-9faf-e06a92a36809">
+<repo>
+<ppd name="distribution board\fatek\FBs-40MA(B)(C)-AC.ppd" fG="013662dc-4be1-4804-aca2-d32e4315baf2" lG="d2e0c829-2e3d-476f-a1bf-e88f686e4504">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-400" top="-199" right="400" bottom="199" op-lw="4" op-fd="1" op-fc="8421504"/>
+<outlet x="-250" y="-199"/>
+<outlet x="-230" y="-154"/>
+<outlet x="-200" y="-199"/>
+<outlet x="-180" y="-154"/>
+<outlet x="-150" y="-199"/>
+<outlet x="-130" y="-154"/>
+<outlet x="-100" y="-199"/>
+<outlet x="-80" y="-154"/>
+<text x="228" y="104" f="60,0,0,0,Lucida Sans Unicode,000000" al="9">FBs-40MAR2-AC</text>
+<text x="-273" y="-51" f="40,0,0,0,Lucida Sans Unicode,000000" al="2">PROGRAMMABLE</text>
+<text x="-247" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X0</text>
+<text x="-232" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X1</text>
+<text x="-197" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X2</text>
+<text x="-178" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X3</text>
+<text x="-147" y="-180" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X4</text>
+<text x="-122" y="-137" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X5</text>
+<text x="-98" y="-180" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X6</text>
+<ellipse left="-340" top="168" right="-315" bottom="193"/>
+<polyline op-lw="1" pts="-327,172,-327,181,"/>
+<polyline op-lw="1" pts="-335,182,-320,182,"/>
+<polyline op-lw="1" pts="-333,185,-322,185,"/>
+<polyline op-lw="1" pts="-330,188,-325,188,"/>
+<text x="-327" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">S/S</text>
+<text x="-72" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X7</text>
+<outlet x="-50" y="-199"/>
+<outlet x="-30" y="-154"/>
+<outlet x="0" y="-199"/>
+<outlet x="20" y="-154"/>
+<outlet x="50" y="-199"/>
+<outlet x="70" y="-154"/>
+<text x="-47" y="-180" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X8</text>
+<text x="-23" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X9</text>
+<text x="25" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X11</text>
+<text x="-181" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y1</text>
+<text x="4" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X10</text>
+<text x="-212" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y0</text>
+<text x="-262" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C0</text>
+<text x="75" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X13</text>
+<text x="52" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X12</text>
+<rect left="-266" top="-199" right="-216" bottom="-164" op-lw="1"/>
+<rect left="-216" top="-199" right="-166" bottom="-164" op-lw="1"/>
+<rect left="-166" top="-199" right="-116" bottom="-164" op-lw="1"/>
+<rect left="-116" top="-199" right="-66" bottom="-164" op-lw="1"/>
+<rect left="-66" top="-199" right="-16" bottom="-164" op-lw="1"/>
+<rect left="-16" top="-199" right="34" bottom="-164" op-lw="1"/>
+<rect left="34" top="-199" right="84" bottom="-164" op-lw="1"/>
+<rect left="-246" top="-164" right="-196" bottom="-129" op-lw="1"/>
+<rect left="-196" top="-164" right="-146" bottom="-129" op-lw="1"/>
+<rect left="-146" top="-164" right="-96" bottom="-129" op-lw="1"/>
+<rect left="-96" top="-164" right="-46" bottom="-129" op-lw="1"/>
+<rect left="-46" top="-164" right="4" bottom="-129" op-lw="1"/>
+<rect left="4" top="-164" right="54" bottom="-129" op-lw="1"/>
+<rect left="54" top="-164" right="104" bottom="-129" op-lw="1"/>
+<rect left="-316" top="-199" right="-266" bottom="-164" op-lw="1" op-fd="1" op-fc="11711154"/>
+<rect left="-156" top="129" right="-106" bottom="164" op-lw="1"/>
+<rect left="-106" top="129" right="-56" bottom="164" op-lw="1"/>
+<rect left="-56" top="129" right="-6" bottom="164" op-lw="1"/>
+<rect left="-6" top="129" right="44" bottom="164" op-lw="1"/>
+<rect left="44" top="129" right="94" bottom="164"/>
+<rect left="-296" top="-164" right="-246" bottom="-129" op-lw="1"/>
+<rect left="-366" top="-199" right="-316" bottom="-164" op-lw="1" op-fd="1" op-fc="11711154"/>
+<rect left="-346" top="-164" right="-296" bottom="-129"/>
+<polyline pts="-265,-199,-265,-164,-245,-164,-245,-129,-345,-129,-345,-164,-365,-164,-365,-199,-365,-199,"/>
+<rect left="-356" top="129" right="-306" bottom="164" op-lw="1" op-fd="1" op-fc="11711154"/>
+<rect left="-306" top="129" right="-256" bottom="164" op-lw="1" op-fd="1" op-fc="11711154"/>
+<rect left="-256" top="129" right="-206" bottom="164" op-lw="1"/>
+<rect left="-206" top="129" right="-156" bottom="164" op-lw="1"/>
+<rect left="-341" top="164" right="-291" bottom="199"/>
+<rect left="-291" top="164" right="-241" bottom="199" op-lw="1"/>
+<rect left="-241" top="164" right="-191" bottom="199" op-lw="1"/>
+<rect left="-191" top="164" right="-141" bottom="199" op-lw="1"/>
+<rect left="-141" top="164" right="-91" bottom="199" op-lw="1"/>
+<rect left="-91" top="164" right="-41" bottom="199" op-lw="1"/>
+<rect left="-41" top="164" right="9" bottom="199" op-lw="1"/>
+<rect left="9" top="164" right="59" bottom="199" op-lw="1"/>
+<rect left="59" top="164" right="109" bottom="199" op-lw="1"/>
+<text x="-126" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y2</text>
+<text x="-112" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y3</text>
+<text x="-162" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C2</text>
+<text x="-81" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y4</text>
+<text x="-26" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y5</text>
+<text x="-62" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C4</text>
+<text x="24" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y6</text>
+<text x="38" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y7</text>
+<text x="-12" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C6</text>
+<text x="124" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y8</text>
+<text x="138" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y9</text>
+<outlet x="100" y="-199"/>
+<outlet x="120" y="-154"/>
+<text x="125" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X15</text>
+<text x="104" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X14</text>
+<outlet x="150" y="-199"/>
+<outlet x="170" y="-154"/>
+<text x="170" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X17</text>
+<text x="149" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X16</text>
+<outlet x="200" y="-199"/>
+<outlet x="220" y="-154"/>
+<text x="220" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X19</text>
+<text x="199" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X18</text>
+<outlet x="250" y="-199"/>
+<outlet x="270" y="-154"/>
+<text x="270" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X21</text>
+<text x="249" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X20</text>
+<outlet x="300" y="-199"/>
+<outlet x="320" y="-154"/>
+<text x="320" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X23</text>
+<text x="299" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X22</text>
+<rect left="84" top="-199" right="134" bottom="-164" op-lw="1"/>
+<rect left="104" top="-164" right="154" bottom="-129" op-lw="1"/>
+<rect left="134" top="-199" right="184" bottom="-164" op-lw="1"/>
+<rect left="154" top="-164" right="204" bottom="-129" op-lw="1"/>
+<rect left="184" top="-199" right="234" bottom="-164" op-lw="1"/>
+<rect left="204" top="-164" right="254" bottom="-129" op-lw="1"/>
+<rect left="234" top="-199" right="284" bottom="-164" op-lw="1"/>
+<rect left="254" top="-164" right="304" bottom="-129" op-lw="1"/>
+<rect left="284" top="-199" right="334" bottom="-164" op-lw="1"/>
+<rect left="304" top="-164" right="354" bottom="-129" op-lw="1"/>
+<outlet x="-215" y="199"/>
+<outlet x="-180" y="154"/>
+<outlet x="-262" y="198"/>
+<outlet x="-130" y="154"/>
+<outlet x="-115" y="199"/>
+<outlet x="-165" y="199"/>
+<outlet x="-80" y="154"/>
+<outlet x="-30" y="154"/>
+<outlet x="-65" y="199"/>
+<outlet x="20" y="154"/>
+<outlet x="35" y="199"/>
+<outlet x="-15" y="199"/>
+<rect left="94" top="129" right="144" bottom="164" op-lw="1"/>
+<rect left="109" top="164" right="159" bottom="199" op-lw="1"/>
+<rect left="144" top="129" right="194" bottom="164" op-lw="1"/>
+<rect left="159" top="164" right="209" bottom="199" op-lw="1"/>
+<rect left="194" top="129" right="244" bottom="164"/>
+<rect left="209" top="164" right="259" bottom="199" op-lw="1"/>
+<rect left="244" top="129" right="294" bottom="164" op-lw="1"/>
+<rect left="259" top="164" right="309" bottom="199" op-lw="1"/>
+<rect left="294" top="129" right="344" bottom="164" op-lw="1"/>
+<rect left="309" top="164" right="359" bottom="199" op-lw="1"/>
+<outlet x="120" y="154"/>
+<outlet x="135" y="199"/>
+<outlet x="170" y="154"/>
+<outlet x="185" y="199"/>
+<outlet x="85" y="199"/>
+<outlet x="270" y="154"/>
+<outlet x="285" y="199"/>
+<outlet x="320" y="154"/>
+<outlet x="335" y="199"/>
+<outlet x="235" y="199"/>
+<outlet x="-330" y="-154"/>
+<outlet x="-310" y="199"/>
+<text x="174" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y10</text>
+<text x="188" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y11</text>
+<text x="83" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C8</text>
+<text x="274" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y12</text>
+<text x="288" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y13</text>
+<text x="324" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y14</text>
+<text x="338" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y15</text>
+<text x="233" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C12</text>
+<polyline pts="-255,-129,355,-129,355,-164,335,-164,335,-199,335,-199,"/>
+<polyline pts="344,129,-356,129,"/>
+<polyline pts="344,130,344,164,360,164,360,198,360,198,"/>
+<rect left="-355" top="129" right="-205" bottom="164"/>
+<polyline pts="-157,129,-157,164,-192,164,-192,199,-192,199,"/>
+<polyline pts="-106,130,-106,164,-92,164,-92,199,-92,199,"/>
+<polyline pts="-7,129,-7,164,-42,164,-42,199,-42,199,"/>
+<polyline pts="58,164,58,198,"/>
+<polyline pts="208,164,208,198,"/>
+<outlet x="-350" y="-199"/>
+<outlet x="-300" y="-199"/>
+<outlet x="-330" y="154"/>
+<outlet x="-280" y="154"/>
+<text x="-369" y="-127" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">max.
+400 mA</text>
+<text x="-374" y="145" f="60,0,0,0,Lucida Sans Unicode,000000" al="9">IN</text>
+<text x="-342" y="-178" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9">+24V</text>
+<text x="-292" y="-178" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9">-OUT</text>
+<text x="-275" y="-81" f="100,0,0,0,Lucida Sans Unicode,000000" al="2">FATEK</text>
+<text x="-307" y="118" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">AC 100-240V</text>
+<text x="-329" y="141" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9">L</text>
+<text x="-274" y="141" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9">N</text>
+<rect left="340" top="-95" right="400" bottom="95"/>
+<rect left="-150" top="-120" right="0" bottom="120" op-lw="0" op-fd="1" op-fc="16703889"/>
+<text x="-273" y="-35" f="40,0,0,0,Lucida Sans Unicode,000000" al="2">COMPUTER</text>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-400" top="-199" right="400" bottom="199" op-lw="4" op-fd="1" op-fc="8421504"/>
+<outlet x="-250" y="-199"/>
+<outlet x="-230" y="-154"/>
+<outlet x="-200" y="-199"/>
+<outlet x="-180" y="-154"/>
+<outlet x="-150" y="-199"/>
+<outlet x="-130" y="-154"/>
+<outlet x="-100" y="-199"/>
+<outlet x="-80" y="-154"/>
+<text x="228" y="104" f="60,0,0,0,Lucida Sans Unicode,000000" al="9">FBs-40MAR2-AC</text>
+<text x="-273" y="-51" f="40,0,0,0,Lucida Sans Unicode,000000" al="2">PROGRAMMABLE</text>
+<text x="-247" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X0</text>
+<text x="-232" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X1</text>
+<text x="-197" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X2</text>
+<text x="-178" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X3</text>
+<text x="-147" y="-180" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X4</text>
+<text x="-122" y="-137" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X5</text>
+<text x="-98" y="-180" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X6</text>
+<ellipse left="-340" top="168" right="-315" bottom="193"/>
+<polyline op-lw="1" pts="-327,172,-327,181,"/>
+<polyline op-lw="1" pts="-335,182,-320,182,"/>
+<polyline op-lw="1" pts="-333,185,-322,185,"/>
+<polyline op-lw="1" pts="-330,188,-325,188,"/>
+<text x="-327" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">S/S</text>
+<text x="-72" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X7</text>
+<outlet x="-50" y="-199"/>
+<outlet x="-30" y="-154"/>
+<outlet x="0" y="-199"/>
+<outlet x="20" y="-154"/>
+<outlet x="50" y="-199"/>
+<outlet x="70" y="-154"/>
+<text x="-47" y="-180" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X8</text>
+<text x="-23" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X9</text>
+<text x="25" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X11</text>
+<text x="-181" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y1</text>
+<text x="4" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X10</text>
+<text x="-212" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y0</text>
+<text x="-262" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C0</text>
+<text x="75" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X13</text>
+<text x="52" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X12</text>
+<rect left="-266" top="-199" right="-216" bottom="-164" op-lw="1"/>
+<rect left="-216" top="-199" right="-166" bottom="-164" op-lw="1"/>
+<rect left="-166" top="-199" right="-116" bottom="-164" op-lw="1"/>
+<rect left="-116" top="-199" right="-66" bottom="-164" op-lw="1"/>
+<rect left="-66" top="-199" right="-16" bottom="-164" op-lw="1"/>
+<rect left="-16" top="-199" right="34" bottom="-164" op-lw="1"/>
+<rect left="34" top="-199" right="84" bottom="-164" op-lw="1"/>
+<rect left="-246" top="-164" right="-196" bottom="-129" op-lw="1"/>
+<rect left="-196" top="-164" right="-146" bottom="-129" op-lw="1"/>
+<rect left="-146" top="-164" right="-96" bottom="-129" op-lw="1"/>
+<rect left="-96" top="-164" right="-46" bottom="-129" op-lw="1"/>
+<rect left="-46" top="-164" right="4" bottom="-129" op-lw="1"/>
+<rect left="4" top="-164" right="54" bottom="-129" op-lw="1"/>
+<rect left="54" top="-164" right="104" bottom="-129" op-lw="1"/>
+<rect left="-316" top="-199" right="-266" bottom="-164" op-lw="1" op-fd="1" op-fc="11711154"/>
+<rect left="-156" top="129" right="-106" bottom="164" op-lw="1"/>
+<rect left="-106" top="129" right="-56" bottom="164" op-lw="1"/>
+<rect left="-56" top="129" right="-6" bottom="164" op-lw="1"/>
+<rect left="-6" top="129" right="44" bottom="164" op-lw="1"/>
+<rect left="44" top="129" right="94" bottom="164"/>
+<rect left="-296" top="-164" right="-246" bottom="-129" op-lw="1"/>
+<rect left="-366" top="-199" right="-316" bottom="-164" op-lw="1" op-fd="1" op-fc="11711154"/>
+<rect left="-346" top="-164" right="-296" bottom="-129"/>
+<polyline pts="-265,-199,-265,-164,-245,-164,-245,-129,-345,-129,-345,-164,-365,-164,-365,-199,-365,-199,"/>
+<rect left="-356" top="129" right="-306" bottom="164" op-lw="1" op-fd="1" op-fc="11711154"/>
+<rect left="-306" top="129" right="-256" bottom="164" op-lw="1" op-fd="1" op-fc="11711154"/>
+<rect left="-256" top="129" right="-206" bottom="164" op-lw="1"/>
+<rect left="-206" top="129" right="-156" bottom="164" op-lw="1"/>
+<rect left="-341" top="164" right="-291" bottom="199"/>
+<rect left="-291" top="164" right="-241" bottom="199" op-lw="1"/>
+<rect left="-241" top="164" right="-191" bottom="199" op-lw="1"/>
+<rect left="-191" top="164" right="-141" bottom="199" op-lw="1"/>
+<rect left="-141" top="164" right="-91" bottom="199" op-lw="1"/>
+<rect left="-91" top="164" right="-41" bottom="199" op-lw="1"/>
+<rect left="-41" top="164" right="9" bottom="199" op-lw="1"/>
+<rect left="9" top="164" right="59" bottom="199" op-lw="1"/>
+<rect left="59" top="164" right="109" bottom="199" op-lw="1"/>
+<text x="-126" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y2</text>
+<text x="-112" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y3</text>
+<text x="-162" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C2</text>
+<text x="-81" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y4</text>
+<text x="-26" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y5</text>
+<text x="-62" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C4</text>
+<text x="24" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y6</text>
+<text x="38" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y7</text>
+<text x="-12" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C6</text>
+<text x="124" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y8</text>
+<text x="138" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y9</text>
+<outlet x="100" y="-199"/>
+<outlet x="120" y="-154"/>
+<text x="125" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X15</text>
+<text x="104" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X14</text>
+<outlet x="150" y="-199"/>
+<outlet x="170" y="-154"/>
+<text x="170" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X17</text>
+<text x="149" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X16</text>
+<outlet x="200" y="-199"/>
+<outlet x="220" y="-154"/>
+<text x="220" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X19</text>
+<text x="199" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X18</text>
+<outlet x="250" y="-199"/>
+<outlet x="270" y="-154"/>
+<text x="270" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X21</text>
+<text x="249" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X20</text>
+<outlet x="300" y="-199"/>
+<outlet x="320" y="-154"/>
+<text x="320" y="-138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X23</text>
+<text x="299" y="-178" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">X22</text>
+<rect left="84" top="-199" right="134" bottom="-164" op-lw="1"/>
+<rect left="104" top="-164" right="154" bottom="-129" op-lw="1"/>
+<rect left="134" top="-199" right="184" bottom="-164" op-lw="1"/>
+<rect left="154" top="-164" right="204" bottom="-129" op-lw="1"/>
+<rect left="184" top="-199" right="234" bottom="-164" op-lw="1"/>
+<rect left="204" top="-164" right="254" bottom="-129" op-lw="1"/>
+<rect left="234" top="-199" right="284" bottom="-164" op-lw="1"/>
+<rect left="254" top="-164" right="304" bottom="-129" op-lw="1"/>
+<rect left="284" top="-199" right="334" bottom="-164" op-lw="1"/>
+<rect left="304" top="-164" right="354" bottom="-129" op-lw="1"/>
+<outlet x="-215" y="199"/>
+<outlet x="-180" y="154"/>
+<outlet x="-262" y="198"/>
+<outlet x="-130" y="154"/>
+<outlet x="-115" y="199"/>
+<outlet x="-165" y="199"/>
+<outlet x="-80" y="154"/>
+<outlet x="-30" y="154"/>
+<outlet x="-65" y="199"/>
+<outlet x="20" y="154"/>
+<outlet x="35" y="199"/>
+<outlet x="-15" y="199"/>
+<rect left="94" top="129" right="144" bottom="164" op-lw="1"/>
+<rect left="109" top="164" right="159" bottom="199" op-lw="1"/>
+<rect left="144" top="129" right="194" bottom="164" op-lw="1"/>
+<rect left="159" top="164" right="209" bottom="199" op-lw="1"/>
+<rect left="194" top="129" right="244" bottom="164"/>
+<rect left="209" top="164" right="259" bottom="199" op-lw="1"/>
+<rect left="244" top="129" right="294" bottom="164" op-lw="1"/>
+<rect left="259" top="164" right="309" bottom="199" op-lw="1"/>
+<rect left="294" top="129" right="344" bottom="164" op-lw="1"/>
+<rect left="309" top="164" right="359" bottom="199" op-lw="1"/>
+<outlet x="120" y="154"/>
+<outlet x="135" y="199"/>
+<outlet x="170" y="154"/>
+<outlet x="185" y="199"/>
+<outlet x="85" y="199"/>
+<outlet x="270" y="154"/>
+<outlet x="285" y="199"/>
+<outlet x="320" y="154"/>
+<outlet x="335" y="199"/>
+<outlet x="235" y="199"/>
+<outlet x="-330" y="-154"/>
+<outlet x="-310" y="199"/>
+<text x="174" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y10</text>
+<text x="188" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y11</text>
+<text x="83" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C8</text>
+<text x="274" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y12</text>
+<text x="288" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y13</text>
+<text x="324" y="138" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y14</text>
+<text x="338" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">Y15</text>
+<text x="233" y="173" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">C12</text>
+<polyline pts="-255,-129,355,-129,355,-164,335,-164,335,-199,335,-199,"/>
+<polyline pts="344,129,-356,129,"/>
+<polyline pts="344,130,344,164,360,164,360,198,360,198,"/>
+<rect left="-355" top="129" right="-205" bottom="164"/>
+<polyline pts="-157,129,-157,164,-192,164,-192,199,-192,199,"/>
+<polyline pts="-106,130,-106,164,-92,164,-92,199,-92,199,"/>
+<polyline pts="-7,129,-7,164,-42,164,-42,199,-42,199,"/>
+<polyline pts="58,164,58,198,"/>
+<polyline pts="208,164,208,198,"/>
+<outlet x="-350" y="-199"/>
+<outlet x="-300" y="-199"/>
+<outlet x="-330" y="154"/>
+<outlet x="-280" y="154"/>
+<text x="-369" y="-127" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">max.
+400 mA</text>
+<text x="-374" y="145" f="60,0,0,0,Lucida Sans Unicode,000000" al="9">IN</text>
+<text x="-342" y="-178" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9">+24V</text>
+<text x="-292" y="-178" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9">-OUT</text>
+<text x="-275" y="-81" f="100,0,0,0,Lucida Sans Unicode,000000" al="2">FATEK</text>
+<text x="-307" y="118" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">AC 100-240V</text>
+<text x="-329" y="141" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9">L</text>
+<text x="-274" y="141" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9">N</text>
+<rect left="340" top="-95" right="400" bottom="95"/>
+<rect left="-150" top="-120" right="0" bottom="120" op-lw="0" op-fd="1" op-fc="16703889"/>
+<text x="-273" y="-35" f="40,0,0,0,Lucida Sans Unicode,000000" al="2">COMPUTER</text>
+</layer>
+</layers>
+</document>

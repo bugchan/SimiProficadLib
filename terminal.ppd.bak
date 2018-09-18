@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0" t="X" fG="6b78d699-2542-47fd-a146-a5205997bb18" lG="0307fdce-dbe4-414c-974b-55fadf6d9537" function="1">
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="-8" top="-8" right="8" bottom="8"/>
+<outlet x="0" y="-8"/>
+<outlet x="0" y="8"/>
+</layer>
+</layers>
+<defaults>
+<attributes>
+<attribute name="_ref" value="1" v="0" custom="" x="-35" y="-20" al="6" t="0"/>
+<attribute name="_type" value="" v="0" custom="" x="-35" y="20" al="6" t="0"/>
+<attribute name="_o1" value="1" v="0" custom="i" x="-10" y="-8" al="6" t="0"/>
+<attribute name="_o2" value="1" v="0" custom="o" x="-10" y="8" al="6" t="0"/>
+</attributes>
+</defaults>
+</document>

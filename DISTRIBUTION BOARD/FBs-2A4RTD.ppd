@@ -1,0 +1,88 @@
+<document type="ProfiCAD ppd" version="9.0" fG="013662dc-4be1-4804-aca2-d32e4315baf2" lG="cd302236-bad6-4dda-bbec-85d28fb99212">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-130" top="-200" right="130" bottom="200" op-lw="4" op-fd="1" op-fc="8421504"/>
+<outlet x="10" y="-201"/>
+<outlet x="35" y="-156"/>
+<outlet x="60" y="-201"/>
+<outlet x="85" y="-156"/>
+<outlet x="-90" y="154"/>
+<outlet x="-65" y="199"/>
+<outlet x="-40" y="154"/>
+<outlet x="-15" y="199"/>
+<outlet x="10" y="154"/>
+<outlet x="35" y="199"/>
+<outlet x="60" y="154"/>
+<outlet x="85" y="199"/>
+<text x="-18" y="-145" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">COM</text>
+<text x="56" y="111" f="60,0,0,0,Lucida Sans Unicode,000000" al="9">FBs-2A4RTD</text>
+<text x="23" y="-185" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">I0+</text>
+<text x="33" y="-145" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">I0-</text>
+<text x="73" y="-185" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">I1+</text>
+<text x="88" y="-145" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">I1-</text>
+<text x="-89" y="143" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">P0+</text>
+<text x="-75" y="183" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">P0-</text>
+<text x="-37" y="143" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">P1+</text>
+<text x="-23" y="183" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">P1-</text>
+<text x="13" y="143" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">P2+</text>
+<text x="28" y="183" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">P2-</text>
+<text x="63" y="143" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">P3+</text>
+<text x="78" y="183" f="40,0,0,0,Lucida Sans Unicode,000000" al="9">P3-</text>
+<polyline op-lw="1" pts="5,-166,45,-166,"/>
+<polyline pts="60,-131,5,-131,"/>
+<polyline pts="5,-131,5,-166,"/>
+<polyline pts="5,-166,-5,-166,"/>
+<polyline pts="-5,-166,-5,-201,"/>
+<polyline pts="45,-166,45,-201,"/>
+<polyline pts="45,-166,60,-166,"/>
+<polyline pts="60,-166,60,-131,"/>
+<polyline op-lw="1" pts="60,-166,100,-166,"/>
+<polyline pts="100,-166,100,-201,"/>
+<polyline pts="100,-166,115,-166,"/>
+<polyline pts="115,-166,115,-131,"/>
+<polyline pts="115,-131,60,-131,"/>
+<polyline pts="-50,-166,-50,-131,"/>
+<polyline op-lw="1" pts="-50,-166,-5,-166,"/>
+<polyline pts="5,-131,-50,-131,"/>
+<polyline pts="-105,-166,-105,-131,"/>
+<polyline pts="-50,-131,-105,-131,"/>
+<polyline op-lw="1" pts="-105,-166,-50,-166,"/>
+<rect left="-105" top="-201" right="-5" bottom="-166" op-fd="1" op-fc="12632256"/>
+<outlet x="-90" y="-201"/>
+<outlet x="-40" y="-201"/>
+<text x="-89" y="-192" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9">+</text>
+<text x="-66" y="-177" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9"> 24V IN</text>
+<text x="-39" y="-193" f="40,1,0,0,Lucida Sans Unicode,FFFFFF" al="9">-</text>
+<ellipse left="-95" top="-162" right="-70" bottom="-137"/>
+<polyline op-lw="1" pts="-82,-158,-82,-149,"/>
+<polyline op-lw="1" pts="-90,-148,-75,-148,"/>
+<polyline op-lw="1" pts="-88,-145,-77,-145,"/>
+<polyline op-lw="1" pts="-85,-142,-80,-142,"/>
+<polyline pts="35,164,35,129,"/>
+<polyline pts="35,164,50,164,"/>
+<polyline pts="50,164,50,199,"/>
+<polyline op-lw="1" pts="50,164,90,164,"/>
+<polyline pts="85,164,85,129,"/>
+<polyline pts="100,164,100,199,"/>
+<polyline pts="85,164,100,164,"/>
+<polyline pts="-15,164,-15,129,"/>
+<polyline pts="-15,164,0,164,"/>
+<polyline pts="0,164,0,199,"/>
+<polyline op-lw="1" pts="0,164,40,164,"/>
+<polyline pts="-65,164,-65,129,"/>
+<polyline pts="-65,164,-50,164,"/>
+<polyline pts="-50,164,-50,199,"/>
+<polyline op-lw="1" pts="-50,164,-10,164,"/>
+<polyline pts="-115,164,-115,129,"/>
+<polyline pts="-115,164,-100,164,"/>
+<polyline pts="-100,164,-100,199,"/>
+<polyline op-lw="1" pts="-100,164,-60,164,"/>
+<polyline pts="-115,129,85,129,"/>
+<outlet x="-65" y="-156"/>
+<outlet x="-25" y="-156"/>
+<rect left="-50" top="-100" right="50" bottom="90" op-lw="0" op-fd="1" op-fc="16703889"/>
+<rect left="-130" top="-100" right="-70" bottom="90"/>
+<rect left="70" top="-100" right="130" bottom="90"/>
+</layer>
+</layers>
+</document>
